@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\strutture-dati\\lista\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|solutionrelative:lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\strutture-dati\\lista\\lista\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|solutionrelative:lista\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\strutture-dati\\lista\\lista\\mystak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D68C4F-D633-4212-9D83-84B1D151A7FD}|Lista\\Lista.csproj|solutionrelative:lista\\mystak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStak.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\MyStak.cs",
+              "RelativeDocumentMoniker": "Lista\\MyStak.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\MyStak.cs",
+              "RelativeToolTip": "Lista\\MyStak.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:29:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\Nodo.cs",
+              "RelativeDocumentMoniker": "Lista\\Nodo.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\Nodo.cs",
+              "RelativeToolTip": "Lista\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:29:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\Program.cs",
+              "RelativeDocumentMoniker": "Lista\\Program.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\Strutture-dati\\Lista\\Lista\\Program.cs",
+              "RelativeToolTip": "Lista\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:29:57.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

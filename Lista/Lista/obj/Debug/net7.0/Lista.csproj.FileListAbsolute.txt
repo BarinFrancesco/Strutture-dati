@@ -1,0 +1,15 @@
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.deps.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.sourcelink.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\refint\Lista.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\ref\Lista.dll
