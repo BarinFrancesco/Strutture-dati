@@ -13,3 +13,18 @@ G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\o
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.pdb
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Strutture-dati\Lista\Lista\obj\Debug\net7.0\ref\Lista.dll
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.exe
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.deps.json
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.dll
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\bin\Debug\net7.0\Lista.pdb
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.dll
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\refint\Lista.dll
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.pdb
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+C:\Users\12999355\Desktop\compiti\Strutture-dati\Lista\Lista\obj\Debug\net7.0\ref\Lista.dll

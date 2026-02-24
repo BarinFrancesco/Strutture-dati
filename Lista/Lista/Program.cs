@@ -60,7 +60,7 @@
                     Print("Le parentesi sono state messe nell'ordine SBAGLIATO", 2);
                 }
 
-
+                Pila.clear();
 
                 Print("Ha altre operazioni da inserire? [Y/N]", 4);
                 Console.Write(">");
