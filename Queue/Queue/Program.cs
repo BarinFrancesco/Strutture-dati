@@ -20,19 +20,23 @@ namespace Queue
 
         static bool isValid(string operation)
         {
-            MyStak<int> stack = new MyStak<int>();
-            int num = 0;
             foreach (char carattere in operation)
             {
-                if (int.TryParse(""+carattere, out int x))
+                if (char.IsLetter(carattere) &&
+                    carattere != '+' &&
+                    carattere != '-' &&
+                    carattere != '*' &&
+                    carattere != '/' &&
+                    carattere != '(' &&
+                    carattere != ')'
+                    )
                 {
-                    num = (num * 10) + x;
+                    return false;
                 }
             }
 
-
-
             return true;
+
         }
     }
 }
