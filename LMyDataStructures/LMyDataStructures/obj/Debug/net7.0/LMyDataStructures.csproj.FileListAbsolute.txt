@@ -1,0 +1,12 @@
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\bin\Debug\net7.0\LMyDataStructures.deps.json
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\bin\Debug\net7.0\LMyDataStructures.dll
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\bin\Debug\net7.0\LMyDataStructures.pdb
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.AssemblyInfo.cs
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.dll
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\refint\LMyDataStructures.dll
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\LMyDataStructures.pdb
+C:\Users\12999355\Desktop\barin\Strutture-dati\LMyDataStructures\LMyDataStructures\obj\Debug\net7.0\ref\LMyDataStructures.dll
