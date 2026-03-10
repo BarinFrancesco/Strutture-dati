@@ -58,20 +58,21 @@ namespace BinaryTree
             }
         }
 
-        public void PrintTree()
+        public void PrintDebug()
         {
-            PrintTree(Root);
+            PrintDebug(Root, 0);
         }
 
-        private void PrintTree(BinaryNode<T> node)
+        private void PrintDebug(BinaryNode<T> node, int level)
         {
             if (node == null)
                 return;
 
-            Console.WriteLine(node.Value);
+            PrintDebug(node.RigthChild, level + 1);
 
-            PrintTree(node.LeftChild);
-            PrintTree(node.RigthChild);
+            Console.WriteLine(new string(' ', level * 4) + node.Value);
+
+            PrintDebug(node.LeftChild, level + 1);
         }
         //funzioen per la stampa 
         /*
