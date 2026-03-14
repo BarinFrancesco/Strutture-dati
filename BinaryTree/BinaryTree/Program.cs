@@ -22,6 +22,8 @@
                 Console.WriteLine("Elementi nell'albero:");
                 tree.PrintDebug();
                 Console.WriteLine("------------------");
+
+                Console.WriteLine("l'albero ha " + tree.numNodi()  + " nodi");
             }
         }
     }

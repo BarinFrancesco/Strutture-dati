@@ -56,26 +56,37 @@ namespace BinaryTree
 
         }
 
-        
-        public void Remove(BinaryNode<T> MovingNode) 
+        public int numNodi()
         {
-             if(Root == null)
-             {
-                return;
-             }
-             BinaryNode<T> temp = Root;
-
-            while(temp.LeftChild != null)
-            {
-                if (temp.RigthChild == null)
-                {
-
-                }
-            }
-             
-
-           
+            return getNumNodi(Root);
         }
+
+        private int getNumNodi( BinaryNode<T> nodo)
+        {
+                return 1 + getNumNodi(nodo.RigthChild); 
+            
+
+                return 1 + getNumNodi(nodo.LeftChild);
+            
+                return 1;
+            
+
+            return 0;
+        }
+
+        /*
+        public void Remove() 
+        {
+
+            Queue<BinaryNode<T>> CodaNodi = new Queue<BinaryNode<T>>();
+
+
+        }
+
+        public BinaryNode<T> Getlast(BinaryNode<T> nodo , Queue<BinaryNode<T>> CodaNodi)
+        {
+
+        }*/
 
         public void PrintDebug()
         {
