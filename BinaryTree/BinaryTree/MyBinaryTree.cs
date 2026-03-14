@@ -26,36 +26,55 @@ namespace BinaryTree
             }else
             {
 
-                (BinaryNode<T> node, bool direction) Lastnode = Getlastnode(Root);
+                Queue<BinaryNode<T>> CodaNodi = new Queue<BinaryNode<T>>();
+                CodaNodi.Enqueue(Root);
 
-                if (Lastnode.direction)
+                while (CodaNodi.Count > 0)
                 {
-                    Lastnode.node.LeftChild = temp;
-                } else
-                {
-                    Lastnode.node.RigthChild = temp;
+                    BinaryNode<T> current = CodaNodi.Dequeue();
+                    if(current.LeftChild == null)
+                    {
+                        current.LeftChild = temp;
+                        break;
+                    }
+
+                    CodaNodi.Enqueue(current.LeftChild);
+
+                    if (current.RigthChild == null)
+                    {
+                        current.RigthChild = temp;
+                        break;
+                    }
+
+                    CodaNodi.Enqueue(current.RigthChild);
+
                 }
+
+                return;
                 
             }
 
         }
 
-        public (BinaryNode<T> node, bool direction) Getlastnode(BinaryNode<T> MovingNode) 
+        
+        public void Remove(BinaryNode<T> MovingNode) 
         {
-             
-            if (MovingNode.LeftChild == null)
-            {
-                return (MovingNode, true);
-            }
-            else if (MovingNode.RigthChild == null)
-            {
-                return (MovingNode, false);
-            }
-            else //if (MovingNode.RigthChild == null && MovingNode.LeftChild == null)
-            {
-                return Getlastnode(MovingNode.LeftChild);
+             if(Root == null)
+             {
+                return;
+             }
+             BinaryNode<T> temp = Root;
 
+            while(temp.LeftChild != null)
+            {
+                if (temp.RigthChild == null)
+                {
+
+                }
             }
+             
+
+           
         }
 
         public void PrintDebug()
