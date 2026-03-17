@@ -237,6 +237,93 @@ namespace BinaryTree
             return NuovoAlbero;
         }
 
+        public string DFS_PreOrder( int i)
+        {
+            string order ="";
+
+            switch (i)
+            {
+                case 1:
+                    order = Recursive_DFS_PreOrder(Root);
+                    break;
+
+                case 2:
+                    order = Recursive_DFS_InOrder(Root);
+                    break;
+                
+                case 3:
+                    order = Recursive_DFS_PostOrder(Root);
+                    break;
+
+                default:
+                order = "Valore errato";
+                    break;
+            }
+             
+
+
+            return order;
+        }
+
+        private string Recursive_DFS_PreOrder(BinaryNode<T> node)
+        {
+            if(node == null)
+            {
+                return "";
+            }
+
+            return node.Value.ToString() + Recursive_DFS_PreOrder(node.LeftChild) + Recursive_DFS_PreOrder(node.RigthChild);
+        }
+
+
+        public string Recursive_DFS_InOrder(BinaryNode<T> node)
+        {
+            if (node == null)
+            {
+                return "";
+            }
+
+            return Recursive_DFS_InOrder(node.LeftChild) + node.Value.ToString() + Recursive_DFS_InOrder(node.RigthChild);
+        }
+
+        public string Recursive_DFS_PostOrder(BinaryNode<T> node)
+        {
+            if (node == null)
+            {
+                return "";
+            }
+
+            return Recursive_DFS_PostOrder(node.LeftChild) + Recursive_DFS_PostOrder(node.RigthChild) + node.Value.ToString();
+        }
+        
+
+        public string BFS_Search()
+        {
+            if (Root == null)
+                return "";
+
+            string order = "";
+            Queue<BinaryNode<T>> queue = new Queue<BinaryNode<T>>();
+
+            queue.Enqueue(Root);
+
+            while (queue.Count > 0)
+            {
+                BinaryNode<T> current = queue.Dequeue();
+
+                order += current.Value.ToString();
+
+                if (current.LeftChild != null)
+                    queue.Enqueue(current.LeftChild);
+
+                if (current.RightChild != null)
+                    queue.Enqueue(current.RightChild);
+            }
+
+            return order;
+        }
+
+
         //metodo carino di stampa dell'albero
         public void PrintDebug()
         {
